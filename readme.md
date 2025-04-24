@@ -11,6 +11,16 @@ Original App Design Project - README Template
 
 ## Overview
 
+## Preview
+
+<div>
+    <a href="https://www.loom.com/share/0abe31a682f042f0980fa2fad42653d8">
+    </a>
+    <a href="https://www.loom.com/share/0abe31a682f042f0980fa2fad42653d8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0abe31a682f042f0980fa2fad42653d8-007ff1afd47c0c47-full-play.gif">
+    </a>
+  </div>
+
 ### Description
 
 Offers short guided meditations and breathing exercises to help users relax, focus, or sleep.
