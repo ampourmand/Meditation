@@ -11,6 +11,8 @@ Original App Design Project - README Template
 
 ## Overview
 
+The app provides users with meditation experience for relaxation. 
+
 ## Preview
 
 <div>
@@ -59,15 +61,15 @@ Scope:
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-	• User can sign up or log in
-	• User can play a guided meditation session
-	• User receives daily meditation reminders via push notifications
+- [X] User can sign up or log in
+- [X] User can play a guided meditation session
+- [X] User receives daily meditation reminders via push notifications
 
 
 **Optional Nice-to-have Stories**
-	•	User can track their meditation streaks and time spent meditating
-	•	User can choose different ambient background sounds
-	•	User can favorite and download sessions for offline use
+- [ ] User can track their meditation streaks and time spent meditating
+- [ ] User can choose different ambient background sounds
+- [ ] User can favorite and download sessions for offline use
 
 ### 2. Screen Archetypes
 
