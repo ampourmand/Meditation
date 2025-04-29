@@ -16,16 +16,45 @@ The app provides users with meditation experience for relaxation.
 ## Preview
 
 <div>
-    <a href="https://www.loom.com/share/0abe31a682f042f0980fa2fad42653d8">
+    <a href="https://www.loom.com/share/146d48910fd4422381c805cc20e36dc4">
     </a>
-    <a href="https://www.loom.com/share/0abe31a682f042f0980fa2fad42653d8">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0abe31a682f042f0980fa2fad42653d8-007ff1afd47c0c47-full-play.gif">
+    <a href="https://www.loom.com/share/146d48910fd4422381c805cc20e36dc4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/146d48910fd4422381c805cc20e36dc4-882deda9d5e89cb9-full-play.gif">
     </a>
   </div>
 
 ### Description
 
-Offers short guided meditations and breathing exercises to help users relax, focus, or sleep.
+Offers short guided meditations and breathing exercises to help users relax, focus, or sleep. There are also quotes for motivation and meditation sessions!
+
+## Product Spec
+
+### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+- [X] User can sign up or log in
+- [X] User can shuffle through meditation sessions
+- [X] Meditation sessions include 5-minute rain sounds or white noise
+- [X] User receives daily meditation reminders via push notifications
+- [X] User sees a random motivational quote on the home screen
+- [X] User can shuffle motivational quotes
+- [X] User can view all motivational quotes in a quote library
+
+
+**Optional Nice-to-have Stories**
+- [ ] User can track their meditation streaks and time spent meditating
+- [ ] User can choose different ambient background sounds
+- [ ] User can favorite and download sessions for offline use
+
+### 2. Screen Archetypes
+
+- Login / Registration Screen (First)
+→ User logs in or signs up
+- Home Screen (Dashboard - Second)
+→ View featured meditations, continue last session, access reminders
+- Session Player Screen (Third)
+→ Plays selected meditation with play/pause controls and audio
+
 
 ### App Evaluation
 
@@ -56,29 +85,6 @@ Scope:
     
 
 
-## Product Spec
-
-### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories**
-- [X] User can sign up or log in
-- [X] User can play a guided meditation session
-- [X] User receives daily meditation reminders via push notifications
-
-
-**Optional Nice-to-have Stories**
-- [ ] User can track their meditation streaks and time spent meditating
-- [ ] User can choose different ambient background sounds
-- [ ] User can favorite and download sessions for offline use
-
-### 2. Screen Archetypes
-
-- Login / Registration Screen (First)
-→ User logs in or signs up
-- Home Screen (Dashboard - Second)
-→ View featured meditations, continue last session, access reminders
-- Session Player Screen (Third)
-→ Plays selected meditation with play/pause controls and audio
 
 ### 3. Navigation
 
